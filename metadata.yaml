@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32756'
     url: http://www.gutenberg.org/2009/agents/32756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27543#Effeitos-do-Hypnotismo
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2008-12-16'
 gutenberg_type: Text
